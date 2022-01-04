@@ -1,0 +1,66 @@
+{
+  "auth": [
+    {
+      "email": "admin@admin.com",
+      "password": "admin123"
+    }
+  ],
+  "safes": [
+    {
+      "safe_name": "Zebec Safe",
+      "owners": [
+        {
+          "owner_name": "Self",
+          "wallet_address": "Am4Wcw9jiVGe4NHKDbBbgXVKK5WGWsP4688GkSnBuELs"
+        },
+        {
+          "owner_name": "wallet 1",
+          "wallet_address": "7VBTMgbXbnz3gXjCjADM3dzJYsidSRw453mcXV1CfcRj"
+        }
+      ],
+      "min_confirmation_required": 2,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "safe_name": "Zebec Safe 2",
+      "owners": [
+        {
+          "owner_name": "Self",
+          "wallet_address": "Am4Wcw9jiVGe4NHKDbBbgXVKK5WGWsP4688GkSnBuELs"
+        },
+        {
+          "owner_name": "dss",
+          "wallet_address": "7VBTMgbXbnz3gXjCjADM3dzJYsidSRw453mcXV1CfcRj"
+        }
+      ],
+      "min_confirmation_required": 2
+    },
+    {
+      "id": 3,
+      "safe_name": "Test Safe",
+      "owners": [
+        {
+          "owner_name": "Self",
+          "wallet_address": "Am4Wcw9jiVGe4NHKDbBbgXVKK5WGWsP4688GkSnBuELs"
+        }
+      ],
+      "min_confirmation_required": 2
+    },
+    {
+      "id": 4,
+      "safe_name": "Zebec Safe 3",
+      "owners": [
+        {
+          "owner_name": "Self",
+          "wallet_address": "Am4Wcw9jiVGe4NHKDbBbgXVKK5WGWsP4688GkSnBuELs"
+        },
+        {
+          "owner_name": "222",
+          "wallet_address": "7VBTMgbXbnz3gXjCjADM3dzJYsidSRw453mcXV1CfcRj"
+        }
+      ],
+      "min_confirmation_required": 2
+    }
+  ]
+}
